@@ -13,11 +13,11 @@
     <a href="https://github.com/awarris/portfolio-background-animate" target="_blank">
       <img src="https://img.shields.io/badge/Voir%20mon%20Portfolio-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1nbG9iZSI+PHBhdGggZD0iTTIxIDEyYTEwIDEwIDAgMSAxLTEwLTEwYzAgNiA0IDEwIDEwIDEwWiIvPjxwYXRoIGQ9Ik0yIDEyaDE4Ii8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTBNMTIgMmExNS4zIDE1LjMgMCAwIDAtNCAxMCAxNS4zIDE1LjMgMCAwIDAgNCAxMFoiLz48L3N2Zz4=" />
     </a>
-    <a href="https://www.linkedin.com/in/warrisagbannonde" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
     <a href="https://gitlab.com/VOTRE_USERNAME_GITLAB" target="_blank">
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/warrisagbannonde" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:warrisagbannonde@outlook.com">
       <img src="https://img.shields.io/badge/Contactez--moi-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
