@@ -17,10 +17,10 @@
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/warrisagbannonde" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:warrisagbannonde@outlook.com">
-      <img src="https://img.shields.io/badge/Contactez--moi-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
 </div>
