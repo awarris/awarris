@@ -100,8 +100,6 @@ J'ai conçu mon propre portfolio comme une démonstration de mon savoir-faire. I
 -   **Animations & UX :** L'interface est enrichie d'un fond de particules interactif et de micro-animations pour une expérience mémorable.
 -   **CI/CD :** Le déploiement est entièrement automatisé avec GitHub Actions et Vercel.
 
-**[➡️ Explorez le code source de mon portfolio](https://github.com/awarris/portfolio-background-animate)**
-
 ---
 
 ### 📊 Mon Activité sur GitHub
