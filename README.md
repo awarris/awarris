@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/warrisagbannonde" target="_blank">LinkedIn</a> •
-    <a href="mailto:warrisagbannonde@outlook.com">Email</a>
+    <a href="mailto:awarrisw@outlook.com">Email</a>
   </p>
 </div>
 
