@@ -20,12 +20,12 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer with 4+ years of experience focused on building robust APIs and scalable systems.
+Backend Software Engineer with 4+ years of experience building scalable APIs and backend systems for production environments.
 
 I specialize in backend architecture, database design, and performance optimization.  
-Over time, I expanded into DevOps to manage the full application lifecycle — from development to production deployment.
+Over time, I expanded into DevOps to take full ownership of the application lifecycle — from development to production deployment.
 
-I enjoy working on systems end-to-end, ensuring both code quality and production stability.
+I focus on delivering reliable, maintainable, and high-performance systems, ensuring both code quality and infrastructure stability.
 
 ---
 
@@ -35,10 +35,10 @@ I enjoy working on systems end-to-end, ensuring both code quality and production
 - Python (FastAPI)
 - Node.js (Express / NestJS)
 - REST API Design
-- Backend Architecture
+- Backend Architecture & System Design
 
 ### Databases
-- PostgreSQL (advanced queries, performance optimization)
+- PostgreSQL (advanced queries, performance optimization, data modeling)
 - MySQL
 - MongoDB
 
@@ -47,22 +47,14 @@ I enjoy working on systems end-to-end, ensuring both code quality and production
 - Docker & Docker Compose
 - CI/CD pipelines
 - Nginx / Apache
-- VPS deployment & monitoring
+- Application deployment on Linux servers
+- Production environment management
 
 ---
 
 ## 🚀 What I Focus On
 
-- Designing scalable backend systems  
-- Optimizing database performance  
-- Managing production environments  
-- Ensuring application reliability and security  
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awarris&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awarris&layout=compact&langs_count=8&hide_border=true" />
-</div>
+- Designing scalable and maintainable backend systems  
+- Optimizing database performance and query efficiency  
+- Managing and maintaining production environments  
+- Ensuring application reliability, security, and scalability  
